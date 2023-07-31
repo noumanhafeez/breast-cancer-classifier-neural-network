@@ -18,7 +18,7 @@ The project is implemented as a Python script. The script first loads the WDBC d
 
 ## > Results
 
-The project was successfully implemented and the model was able to achieve an accuracy of 96% on the test set. The model was also able to correctly classify 97% of the patients who were known to have breast cancer.
+The project was successfully implemented and the model was able to achieve an accuracy of 96% on the test set. The model was also able to correctly classify 98% of the patients who were known to have breast cancer.
 
 ## > Conclusion
 
